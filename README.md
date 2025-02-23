@@ -1,6 +1,5 @@
 # placement_independent_ui_components_flutter - gif demo
 ![Demo](https://github.com/sunsetZaaZa/placement_independent_ui_components_flutter/blob/main/smoke_trail.gif)
-message or email: (linkedin)[https://www.linkedin.com/in/vincent-cuccia-68a350265/]
 
 * Place visual components without constraints. Components can react to user, system and internet based commands / outcomes. UI design guides what is static, clickable, moving and dynamic
 * Navigate about the application while a task or multiple are ran on a single or multiple isolates
